@@ -25,11 +25,13 @@ To set up this project, clone the repository and install the required packages:
 git clone https://github.com/kellytang000/Mitacs-2024-ABM.git
 cd your-repo-name
 pip install -r requirements.txt
+```
 
 ## Usage
 To run the analysis, execute the following command:
 ```bash
 python analysis_script.py
+```
 
 ## Data Generation
 - **Demand Data Synthesis**: Synthesized based on an annual passenger count, with rush hours identified and demand multipliers applied.
