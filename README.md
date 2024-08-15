@@ -10,6 +10,7 @@
 - [Visualizations](#visualizations)
 - [Results and Discussion](#results-and-discussion)
 - [Future Work](#future-work)
+- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 This project focuses on analyzing London's Route 10 transit data to enhance operational strategies and passenger experience through advanced data analytics and AI integration.
