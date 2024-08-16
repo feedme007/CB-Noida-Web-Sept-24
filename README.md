@@ -38,7 +38,10 @@ pip install -r requirements.txt
 
 ## Usage
 Once the installation is complete, you can start exploring the data and running the code for analysis, in this sequence,
-1. 
+1. route_10_gtfs_generation
+2. route_10_10_od_synthetic_generation
+3. transit_sim_route_10
+4. transit_viz_route_10
 
 ## Data Generation
 - **Demand Data Synthesis**: Synthesized based on an annual passenger count, with rush hours identified and demand multipliers applied.
