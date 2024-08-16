@@ -24,7 +24,7 @@ This project focuses on analyzing London's Route 10 transit data to enhance oper
 To set up this project, clone the repository and install the required packages:
 ```bash
 git clone https://github.com/kellytang000/Mitacs-2024-ABM.git
-cd your-repo-name
+cd Mitacs-2024-ABM
 pip install -r requirements.txt
 ```
 
