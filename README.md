@@ -38,10 +38,10 @@ pip install -r requirements.txt
 
 ## Usage
 Once the installation is complete, you can start exploring the data and running the code for analysis, in this sequence,
-1. [Route 10 GTFS Generation](/London-Transit-Route_10/code/route_10_gtfs_generation.ipynb)
-2. [Route 10 OD Synthetic Generation](/London-Transit-Route_10/code/)
-3. [Transit Simulation for Route 10](code/transit_sim_route_10.ipynb)
-4. [Transit Visualization for Route 10](code/transit_viz_route_10.ipynb)
+1. [route_10_gtfs_generation](/London-Transit-Route_10/code/route_10_gtfs_generation.ipynb)
+2. [route_10_10_od_synthetic_generation](/London-Transit-Route_10/code/route_10_10_od_synthetic_generation.ipynb)
+3. [transit_sim_route_10](code/transit_sim_route_10.ipynb)
+4. [transit_viz_route_10](code/transit_viz_route_10.ipynb)
 
 ## Data Generation
 - **Demand Data Synthesis**: Synthesized based on an annual passenger count, with rush hours identified and demand multipliers applied.
