@@ -11,6 +11,7 @@
 - [Results and Discussion](#results-and-discussion)
 - [Future Work](#future-work)
 - [Acknowledgements](#acknowledgements)
+- [Requirements File](/requirements.txt)
 
 ## Introduction
 This project focuses on analyzing London's Route 10 transit data to enhance operational strategies and passenger experience through advanced data analytics and AI integration.
@@ -21,18 +22,23 @@ This project focuses on analyzing London's Route 10 transit data to enhance oper
 - **Trips File**: Derived from stop times and trips data, formatted specifically for weekdays.
 
 ## Installation
-To set up this project, clone the repository and install the required packages:
+To set up this project, 
+1. clone the repository and 
 ```bash
 git clone https://github.com/kellytang000/Mitacs-2024-ABM.git
+```
+2. Create directory
+```
 cd Mitacs-2024-ABM
+```
+3. Install the required packages:
+```
 pip install -r requirements.txt
 ```
 
 ## Usage
-To run the analysis, execute the following command:
-```bash
-python analysis_script.py
-```
+Once the installation is complete, you can start exploring the data and running the code for analysis, in this sequence,
+1. 
 
 ## Data Generation
 - **Demand Data Synthesis**: Synthesized based on an annual passenger count, with rush hours identified and demand multipliers applied.
