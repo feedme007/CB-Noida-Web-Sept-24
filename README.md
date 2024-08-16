@@ -23,13 +23,13 @@ This project focuses on analyzing London's Route 10 transit data to enhance oper
 
 ## Installation
 To set up this project, 
-1. clone the repository and 
+1. Clone the repository:
 ```bash
 git clone https://github.com/kellytang000/Mitacs-2024-ABM.git
 ```
-2. Create directory
+2. Navigate to the project directory:
 ```
-cd Mitacs-2024-ABM
+cd London-Transit-ABM-(Faraz)
 ```
 3. Install the required packages:
 ```
@@ -38,10 +38,10 @@ pip install -r requirements.txt
 
 ## Usage
 Once the installation is complete, you can start exploring the data and running the code for analysis, in this sequence,
-1. route_10_gtfs_generation
-2. route_10_10_od_synthetic_generation
-3. transit_sim_route_10
-4. transit_viz_route_10
+1. [Route 10 GTFS Generation](London-Transit-Route_10/code/route_10_gtfs_generation.ipynb)
+2. [Route 10 OD Synthetic Generation](code/route_10_10_od_synthetic_generation.ipynb)
+3. [Transit Simulation for Route 10](code/transit_sim_route_10.ipynb)
+4. [Transit Visualization for Route 10](code/transit_viz_route_10.ipynb)
 
 ## Data Generation
 - **Demand Data Synthesis**: Synthesized based on an annual passenger count, with rush hours identified and demand multipliers applied.
